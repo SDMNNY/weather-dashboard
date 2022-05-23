@@ -1,7 +1,7 @@
 # weather-dashboard
 
 
-LIVE LINK: 
+LIVE LINK: https://sdmnny.github.io/weather-dashboard/
 
 Welcome to my Weather Dashboard! 
 
